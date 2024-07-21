@@ -17,7 +17,7 @@
  * Include necessary headers.
  */
 
-#  include <cups/cups-private.h>
+
 #  include <cups/snmp-private.h>
 #  include <cups/backend.h>
 #  include <cups/sidechannel.h>
